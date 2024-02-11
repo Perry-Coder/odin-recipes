@@ -1,0 +1,31 @@
+
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    display: block;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border: 5px solid #555;
+  }
+
+  h2{
+    /* font-family: Georgia, 'Times New Roman', Times, sans-serif; */
+    font-weight: bolder;
+  }
+
+  .ingredients,
+  .steps,
+  p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
